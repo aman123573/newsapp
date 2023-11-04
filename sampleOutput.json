@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Ukraine war: Explosions rock Ukrainian port hours after grain deal",
+            "description": "Six blasts hit the city on Saturday morning, with local officials blaming a Russian missile attack.",
+            "url": "http://www.bbc.co.uk/news/world-europe-62276392",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/09DA/production/_126022520_gettyimages-1180598113.jpg",
+            "publishedAt": "2022-07-23T09:07:19.9466029Z",
+            "content": "By Matt MurphyBBC News\r\nExplosions have rocked a key Ukrainian port just a day after Kyiv and Moscow reached a landmark deal to allow the resumption of grain exports. \r\nSeveral blasts hit the western… [+845 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "WWE chief McMahon retires amid sexual misconduct allegations",
+            "description": "Vince McMahon led the wrestling firm for decades but this year faced sexual misconduct allegations.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-62276389",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7B22/production/_126022513_gettyimages-461454039.jpg",
+            "publishedAt": "2022-07-23T08:52:20.4186946Z",
+            "content": "By Matt MurphyBBC News\r\nWorld Wrestling Entertainment (WWE) boss Vince McMahon, who turned the firm from a regional player to global giant, says he will retire amid a flurry of misconduct claims. \r\nH… [+2836 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Blake Lemoine: Google fires engineer who said AI tech has feelings",
+            "description": "Blake Lemoine went public with his believes that Google's breakthrough Lamda technology is sentient.",
+            "url": "http://www.bbc.co.uk/news/technology-62275326",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7E9C/production/_126021423_gettyface.jpg",
+            "publishedAt": "2022-07-23T02:52:14.7452713Z",
+            "content": "Google has fired one of its engineers who said the company's artificial intelligence system has feelings.\r\nLast month, Blake Lemoine went public with his theory that Google's language technology is s… [+2292 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "China heatwave: Temperatures of 40C expected this weekend",
+            "description": "Some cities in Zhejiang province have been issued red alerts, the country's highest warning.",
+            "url": "http://www.bbc.co.uk/news/world-asia-china-62271975",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/17B93/production/_126017179_gettyimages-1410024272.jpg",
+            "publishedAt": "2022-07-22T22:52:27.3394671Z",
+            "content": "By Nadeem ShadBBC News\r\nParts of China are set to experience searing temperatures over the next ten days as a heatwave takes hold. \r\nIn some provinces, authorities are predicting levels to rise to at… [+1395 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Monkeypox: US confirms first two cases in children",
+            "description": "Children are at an elevated risk for severe monkeypox disease, but both children were \"doing well\".",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-62274245",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/144A8/production/_126021138_gettyimages-1401390462.jpg",
+            "publishedAt": "2022-07-22T22:52:22.8093428Z",
+            "content": "By Sam CabralBBC News, Washington\r\nThe first two US paediatric cases of monkeypox have been reported by health officials as a national outbreak continues to take root.\r\nOne patient is a California to… [+1805 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Haiti gang violence: Children take shelter in school",
+            "description": "Toddlers to teenagers are sleeping in school classrooms as around 300 people are reportedly killed.",
+            "url": "http://www.bbc.co.uk/news/world-latin-america-62274255",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/15448/production/_126021178_mediaitem126021067.jpg",
+            "publishedAt": "2022-07-22T22:37:25.6051178Z",
+            "content": "Hundreds of children in Haiti are taking refuge at a high school in the capital Port-au-Prince after escaping gang violence that has claimed hundreds of lives this month.\r\nToddlers to teenagers are s… [+2264 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "US delivery man saves children from burning house",
+            "description": "Nicholas Bostic saved five people from the home, and was hailed as a hero by the police chief.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-62274354",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/12568/production/_126021157_p0cnl49z.jpg",
+            "publishedAt": "2022-07-22T22:37:20.0740161Z",
+            "content": "Nicholas Bostic saved five people from the home in Lafayette, Indiana, and was hailed as a hero by the police chief.\r\nThe pizza delivery man jumped out of a second-floor window with one of the childr… [+2 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Steve Bannon: Jury finds Trump ally guilty of contempt of Congress",
+            "description": "An unofficial advisor to Donald Trump, Mr Bannon refused to cooperate with the January 6 committee.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-62259034",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/06F5/production/_126018710_gettyimages-1410149911.jpg",
+            "publishedAt": "2022-07-22T19:07:21.6368012Z",
+            "content": "By Sam CabralBBC News, Washington\r\nA US jury has found former Trump strategist Steve Bannon guilty on two counts of contempt of Congress.\r\nMr Bannon, 68, was indicted last year over his failure to co… [+2932 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Biden's doctor: President's Covid symptoms 'have improved'",
+            "description": "The 79-year-old president is still showing only mild symptoms, according to his White House physician.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-62271499",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/73F1/production/_126018692_gettyimages-1408313524.jpg",
+            "publishedAt": "2022-07-22T16:52:17.871706Z",
+            "content": "By Bernd Debusmann JrBBC News, Washington\r\nUS President Joe Biden's condition has improved since first testing positive for Covid-19, the White House has announced. \r\nThe 79-year-old is experiencing … [+2164 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Cyber-attacks on Port of Los Angeles have doubled since pandemic",
+            "description": "The threats to the Port of Los Angeles are believed to come mainly from Europe and Russia.",
+            "url": "http://www.bbc.co.uk/news/business-62260272",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/A708/production/_126006724_gettyimages-1365762448.jpg",
+            "publishedAt": "2022-07-22T12:52:24.3705959Z",
+            "content": "By Sam FenwickPresenter, BBC World Service\r\nCyber-attacks on one of the world's busiest ports have nearly doubled since the start of the Covid pandemic.\r\nThe number of monthly attacks targeting the P… [+2336 chars]"
+        }
+    ]
+}
