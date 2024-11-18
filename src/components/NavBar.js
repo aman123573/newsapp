@@ -41,6 +41,17 @@ const NavBar = () => {
                         </ul>
                     </div>
                 </div>
+                <div style={{
+                    display:'flex',
+                    justifyContent:'center',
+                    alignItems:'center',
+                    gap: '5px',
+                    maxWidth: '100%',
+                    minWidth: '80%'
+                }}>
+                    <Link to="/signin"><button type="submit" class="btn btn-dark btn-primary">Sign in</button></Link>
+                    <Link to="/signup"><button type="submit" class="btn btn-dark btn-primary">Sign up</button></Link>
+                </div>
             </nav>
         </div>
     )
