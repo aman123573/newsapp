@@ -50,10 +50,10 @@ const News = (props) => {
             <h3 className='text-center m-3'>NewsMonkey - Top Headlines</h3>
             {loading && <Spinner />}
             <InfiniteScroll
-                dataLength={articles.length}
+                dataLength={articles?.length || 0}
                 next={fetchMoreData}
                 
-                hasMore={articles.length !== totalResults}
+                hasMore={articles?.length !== totalResults}
                 loader={<Spinner />}
             //scrollableTarget="scrollableDiv"
             >
