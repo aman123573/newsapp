@@ -32,6 +32,7 @@ const News = (props) => {
     useEffect(() => {
         document.title = `${props.category} - ReadNews`;
         updateNews();
+        // eslint-disable-next-line react-hooks/exhaustive-deps
     }, [])
     
     const fetchMoreData = async () => {

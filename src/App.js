@@ -3,8 +3,6 @@ import './App.css';
 import React, { useState } from 'react'
 import NavBar from './components/NavBar';
 import News from './components/News';
-import Signup from './components/Signup';
-import Signin from './components/Signin';
 import LoadingBar from 'react-top-loading-bar';
 
 import { BrowserRouter, Routes, Route } from "react-router-dom";
@@ -33,8 +31,6 @@ const App = () => {
           <Route path="/science" element={<News setProgress={setProgress} apiKey={apiKey} key="science" pageSize={5} country='us' category='Science' />}> </Route>
           <Route path="/sports" element={<News setProgress={setProgress} apiKey={apiKey} key="sports" pageSize={5} country='us' category='Sports' />}> </Route>
           <Route path="/technology" element={<News setProgress={setProgress} apiKey={apiKey} key="technology" pageSize={5} country='us' category='Technology' />}> </Route>
-          <Route path="/signup" element={<Signup/>}></Route>
-          <Route path='/signin' element={<Signin/>}></Route>
         </Routes>
 
       </BrowserRouter>
